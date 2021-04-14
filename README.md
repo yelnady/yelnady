@@ -6,7 +6,7 @@
 ### Languages 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
+![Java Script](https://img.shields.io/badge/-Java%20Script-blue?style=flat-square&logo=JavaScript)
 
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
