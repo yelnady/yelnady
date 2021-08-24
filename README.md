@@ -1,5 +1,5 @@
 ## Hi, I'm Yusuf Elnady (☕💻❤️)
-💡 I'm a data science researcher with an interest in the latest advances in deep learning and their application to the field of digital education and security.💡
+💡 I'm a data science researcher with an interest in the latest advances in deep learning and their application to the fields of digital education and security.💡
 
 
 ![](https://komarev.com/ghpvc/?username=yelnady)
