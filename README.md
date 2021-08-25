@@ -5,19 +5,17 @@
 ![](https://komarev.com/ghpvc/?username=yelnady)
 
 
-### Languages 
+## Languages 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java Script](https://img.shields.io/badge/-Java%20Script-blue?style=flat-square&logo=JavaScript)
-
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yelnady&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yusuf's GitHub Stats" />
-</a>
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=yelnady&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/yelnady)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelnady&layout=compact&theme=dark)](https://github.com/yelnady)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelnady&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](https://github.com/yelnady)
 
 <!--
 **yelnady/yelnady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
