@@ -1,5 +1,13 @@
 ## Hi, I'm Yusuf Elnady (☕💻❤️)
-💡 I'm a data science researcher with an interest in the latest advances in deep learning and their application to the fields of digital education and security.💡
+💡 I am a Machine Learning Scientist with an interest in the latest developments in deep learning and its applications in the fields of digital education and network security.💡
+
+💡 Master of Science in artificial intelligence; Currently working as a Graduate Teaching Assistant at Virginia Tech. 💡
+
+💡 More than 4 years of practical hands-on experience in data analysis, machine learning, natural language processing.💡
+
+💡 More than 6 years of experience in Python, C++, JavaScript, and Linux.💡
+
+💡 Specialties: deep learning, information retrieval, statistical analysis, generative adversarial networks, data science.💡
 
 
 ![](https://komarev.com/ghpvc/?username=yelnady)
